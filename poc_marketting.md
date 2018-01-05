@@ -14,18 +14,17 @@ A por ello:
   <img width="250" src="https://github.com/multihelpers/hiring/blob/master/w.jpg">
 </p>
 
-2. Una clienta insatisfecha con el servicio, publica un Tweet adjuntando las siguientes fotos del servicio. ¿Cómo reaccionas?
-“Contraté un Helper para poner un suelo vinílico y me habéis destrozado el suelo, han desaparecido los rodillos que compre, la escoba esta rota, y el material que compre se he echado a perder. Os voy a denunciar por negligencia sinvergüenzas. Estafadores!”
-
-<p align="center">
-  <img width="500" src="https://github.com/multihelpers/hiring/blob/master/l.png">
-</p>
-
-3. Crea 3 Tweets y 1 post de Fb y otro de Instagram en fechas marcadas
+2. Crea 3 Tweets y 1 post de Fb y otro de Instagram en fechas marcadas
     - Tweet el día de Navidad
     - Tweet el día en que comienza las rebajas
     - Tweet el día que tenemos el cliente número 1,000
     - Post de Facebook el día de San Valentín
     - Post de Instagram el día del Black Friday
+    
+3. Una clienta insatisfecha con el servicio, publica un Tweet adjuntando las siguientes fotos del servicio. ¿Cómo reaccionas?
+
+<p align="center">
+  <img width="500" src="https://github.com/multihelpers/hiring/blob/master/twitter.png">
+</p>
 
 4. Post para Blog de 200 palabras sobre la keyword “montar muebles ikea”
