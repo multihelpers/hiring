@@ -9,7 +9,8 @@ Suponemos que ya lo sabes, pero para que lo tengas en cuenta dos cosas: Multuihe
 A por ello:
 
 1. Como ya te explicamos en la entrevista, nos comunicamos con los clientes a través de Whatsapp. ¿Cómo responderías a esto?
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "multihelpers1")
+
+![alt text](https://github.com/multihelpers/hiring/blob/master/l.png "multihelpers1")
 
 2. Una clienta insatisfecha con el servicio, publica un Tweet adjuntando las siguientes fotos del servicio. ¿Cómo reaccionas?
 “Contraté un Helper para poner un suelo vinílico y me habéis destrozado el suelo, han desaparecido los rodillos que compre, la escoba esta rota, y el material que compre se he echado a perder. Os voy a denunciar por negligencia sinvergüenzas. Estafadores!”
