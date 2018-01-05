@@ -4,7 +4,7 @@ Bienvenido a la segunda fase del proceso de selección. Nos gustó la entrevista
 
 Somos conscientes de que invertir tiempo en esto te puede parecer un poco rollo pero queremos ver que realmente eres el/la crack que estamos buscando. Hemos diseñado 4 tareas que forman parte de nuestro día a día para ver cómo las afrontarías.
 
-Suponemos que ya lo sabes, pero para que lo tengas en cuenta dos cosas: Multuihelpers es la solución más rápida y segura con los presupuestos más ajustados para tus mejoras y pequeñas reparaciones en el hogar y nuestra comunicación es desenfadada, porque somos una empresa digital y fresca.
+Suponemos que ya lo sabes, pero para que lo tengas en cuenta dos cosas: Multihelpers es la solución más rápida y segura con los presupuestos más ajustados para tus mejoras y pequeñas reparaciones en el hogar y nuestra comunicación es desenfadada, porque somos una empresa digital y fresca.
 
 A por ello:
 
@@ -16,7 +16,7 @@ A por ello:
 
 2. Crea 3 Tweets y 1 post de Fb y otro de Instagram en fechas marcadas
     - Tweet el día de Navidad
-    - Tweet el día en que comienza las rebajas
+    - Tweet el día en que comienzan las rebajas
     - Tweet el día que tenemos el cliente número 1,000
     - Post de Facebook el día de San Valentín
     - Post de Instagram el día del Black Friday
