@@ -14,7 +14,7 @@ A por ello:
   <img width="250" src="https://github.com/multihelpers/hiring/blob/master/w.jpg">
 </p>
 
-2. Crea 3 Tweets y 1 post de Fb y otro de Instagram en fechas marcadas
+2. Crea 3 Tweets, 1 post de Fb y otro de Instagram en fechas marcadas
     - Tweet el día de Navidad
     - Tweet el día en que comienzan las rebajas
     - Tweet el día que tenemos el cliente número 1,000
