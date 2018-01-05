@@ -18,7 +18,7 @@ A por ello:
 “Contraté un Helper para poner un suelo vinílico y me habéis destrozado el suelo, han desaparecido los rodillos que compre, la escoba esta rota, y el material que compre se he echado a perder. Os voy a denunciar por negligencia sinvergüenzas. Estafadores!”
 
 <p align="center">
-  <img width="250" src="https://github.com/multihelpers/hiring/blob/master/l.png">
+  <img width="450" src="https://github.com/multihelpers/hiring/blob/master/l.png">
 </p>
 
 3. Crea 3 Tweets y 1 post de Fb y otro de Instagram en fechas marcadas
