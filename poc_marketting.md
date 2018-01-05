@@ -10,6 +10,9 @@ A por ello:
 
 1. Como ya te explicamos en la entrevista, nos comunicamos con los clientes a través de Whatsapp. ¿Cómo responderías a esto?
 
+<p align="center">
+  <img width="250" src="https://github.com/multihelpers/hiring/blob/master/w.jpg">
+</p>
 ![alt text](https://github.com/multihelpers/hiring/blob/master/w.jpg {:height="50%" width="50%"} "multihelpers1")
 
 2. Una clienta insatisfecha con el servicio, publica un Tweet adjuntando las siguientes fotos del servicio. ¿Cómo reaccionas?
