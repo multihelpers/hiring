@@ -10,12 +10,12 @@ A por ello:
 
 1. Como ya te explicamos en la entrevista, nos comunicamos con los clientes a través de Whatsapp. ¿Cómo responderías a esto?
 
-![alt text](https://github.com/multihelpers/hiring/blob/master/w.jpg | width=250)
+![alt text](https://github.com/multihelpers/hiring/blob/master/w.jpg {:height="50%" width="50%"} "multihelpers1")
 
 2. Una clienta insatisfecha con el servicio, publica un Tweet adjuntando las siguientes fotos del servicio. ¿Cómo reaccionas?
 “Contraté un Helper para poner un suelo vinílico y me habéis destrozado el suelo, han desaparecido los rodillos que compre, la escoba esta rota, y el material que compre se he echado a perder. Os voy a denunciar por negligencia sinvergüenzas. Estafadores!”
 
-![alt text](https://github.com/multihelpers/hiring/blob/master/l.png "multihelpers1")
+![alt text](https://github.com/multihelpers/hiring/blob/master/l.png "multihelpers2")
 
 
 3. Crea 3 Tweets y 1 post de Fb y otro de Instagram en fechas marcadas
