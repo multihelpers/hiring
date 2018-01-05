@@ -13,13 +13,13 @@ A por ello:
 <p align="center">
   <img width="250" src="https://github.com/multihelpers/hiring/blob/master/w.jpg">
 </p>
-![alt text](https://github.com/multihelpers/hiring/blob/master/w.jpg {:height="50%" width="50%"} "multihelpers1")
 
 2. Una clienta insatisfecha con el servicio, publica un Tweet adjuntando las siguientes fotos del servicio. ¿Cómo reaccionas?
 “Contraté un Helper para poner un suelo vinílico y me habéis destrozado el suelo, han desaparecido los rodillos que compre, la escoba esta rota, y el material que compre se he echado a perder. Os voy a denunciar por negligencia sinvergüenzas. Estafadores!”
 
-![alt text](https://github.com/multihelpers/hiring/blob/master/l.png "multihelpers2")
-
+<p align="center">
+  <img width="250" src="https://github.com/multihelpers/hiring/blob/master/l.png">
+</p>
 
 3. Crea 3 Tweets y 1 post de Fb y otro de Instagram en fechas marcadas
     - Tweet el día de Navidad
