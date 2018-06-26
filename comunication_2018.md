@@ -7,10 +7,10 @@ Suponemos que ya lo sabes, pero para que lo tengas en cuenta dos cosas: Multihel
 
 Te planteamos 3 supuestos. Recuerda, esto es una pequeña prueba, no es necesario dedicarle mucho tiempo. Simplemente queremos tener una pequeña idea de cómo te desenvuelves en estos supuestos.
 
-* Multihelpers quiere posicionarse por la palabra *“decoración hygge”*. Escríbe un post (150 palabras máximo) para el blog
+* Multihelpers quiere posicionarse por la palabra *“decoración hygge”*. Escríbe un post (150 palabras máximo) para el blog.
 
 * Multihelpers se dedica a realizar pequeñas reparaciones y tareas del hogar como arreglar cisternas, pintar, montar muebles…
 Vamos a lanzar un nuevo servicio de empapelar paredes y queremos hacer una pequeña campaña Display. Los diseños se mostrarán en páginas relacionadas con decoración. 
-Diseña un banner de 640x640px para promocionar este servicio
+Diseña un banner de 640x640px para promocionar este servicio.
 
 * Multihelpers opera actualmente en Madrid y planea lanzar sus servicios en Barcelona. Diseña y planifica una estrategia de comunicación para las tres primeras semanas de lanzamiento. 
